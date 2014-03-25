@@ -1,7 +1,7 @@
 GoSON
 =====
 
-JSON and BSON parsing utility library for Go
+JSON and BSON parsing utility library for Go.
 
 All relevant structures for working with the code as a black box can be found in jsondefs.go
 Documentation on the actual functions is forthcoming.
